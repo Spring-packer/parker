@@ -31,13 +31,9 @@ T3: 2014-01-02, 9d
 
 ### Markdown
 
-<html>
-</br>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-</br>
-<p>
-</html>
+
 
 ```markdown
 
