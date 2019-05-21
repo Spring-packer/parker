@@ -30,7 +30,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 [Link](url) and ![Image](src)
 ```
 
- ![Image](https://spring-packer.github.io/parker/_imgs/1.jpg)
+ ![Image](https://spring-packer.github.io/parker/imgs/1.jpg)
 
 1. 第一篇文章 [文章一](https://spring-packer.github.io/parker/2019/05/21/my_first_article.html)
 
