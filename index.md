@@ -41,7 +41,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-百度链接 .[百度一下].(https://spring-packer.github.io/parker/).
+百度链接 [百度一下](https://spring-packer.github.io/parker/).
+---
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
