@@ -3,6 +3,21 @@ title: Hello, My Blog
 ---
 
 {{ page.title }}
+
+
+---
+title: My Blog
+---
+
+{{ page.title }}
+
+{% for post in site.posts %}
+
+{{ post.date|date_to_string }} <a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a>
+
+{% endfor %}
+
+
 ## Welcome to GitHub Pages
 
 ### Markdown
