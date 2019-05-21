@@ -1,1 +1,12 @@
 theme: jekyll-theme-minimal
+valine:
+  enable: true
+  appid: hrV9vTBbVPzu1aWmfC8qwvwX-gzGzoHsz
+  appkey: aNIAPwYVmKB4xI4TWEh2Id3O
+  notify: false 
+  verify: false 
+  placeholder: Just go go 
+  avatar: mm 
+  guest_info: nick,mail,link 
+  pageSize: 10
+
