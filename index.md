@@ -1,3 +1,8 @@
+---
+title: Hello, My Blog
+---
+
+{{ page.title }}
 ## Welcome to GitHub Pages
 
 ### Markdown
