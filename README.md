@@ -1,6 +1,8 @@
-# https://spring-packer.github.io/parker/
-# 第一次做blog 多多关照 
+### https://spring-packer.github.io/parker/
+### 第一次做blog 多多关照 
 
+龍的博客
+---
 本人一直没有自己的博客，希望能通过这个github来实现自己的生活点点滴滴的记录 
 希望和大家一起学习进步
 成就他人，成就自己
