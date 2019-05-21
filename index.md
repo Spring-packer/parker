@@ -1,3 +1,8 @@
+
+---
+title: 龍的博客
+layout: default.html
+---
 ---
 title: Hello, 龍的博客
 ---
