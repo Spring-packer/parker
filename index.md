@@ -1,7 +1,7 @@
-
 ---
 title: Hello, 龍的博客
 ---
+
 {{ page.title }}
 
 
