@@ -1,31 +1,19 @@
 ---
-title: Hello, My Blog
+title: Hello, 龍的博客
 ---
-
 {{ page.title }}
 
-
----
-title: My Blog
----
-
-{{ page.title }}
 
 {% for post in site.posts %}
-
 {{ post.date|date_to_string }} <a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a>
-
 {% endfor %}
 
-
-## Welcome to GitHub Pages
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
 # HI！
 ## I am Lulongfei
@@ -40,9 +28,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+百度链接 [百度一下](https://spring-packer.github.io/parker/).
 ```
 
-百度链接 [百度一下](https://spring-packer.github.io/parker/).
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
