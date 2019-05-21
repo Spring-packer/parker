@@ -41,14 +41,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
 百度链接 [百度一下](https://spring-packer.github.io/parker/).
----
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
 ## 最是一年春好处，绝胜烟柳满皇都
-# 周大瑞
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
