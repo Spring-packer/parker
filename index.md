@@ -51,23 +51,4 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### 最是一年春好处，绝胜烟柳满皇都
 
-<!-- Gitalk 评论 start  -->
 
-<!-- Link Gitalk 的支持文件  -->
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
-<div id="gitalk-container"></div>     <script type="text/javascript">
-    var gitalk = new Gitalk({
-
-    // gitalk的主要参数
-        clientID: '11fc35911f88369615a6',
-        clientSecret: '89b00c3f94b4e7ad8a2211b3138e29b50f16591a',
-        repo: 'parker',
-        owner: 'Spring-packer',
-        admin: ['Spring-packer'],
-        id: 'indow.location.pathname123321090334563', 注意id一定不要重复，这里是举个例子，可以写中文，如果重复了，就会把其他地方的评论显示过来
-
-    });
-    gitalk.render('gitalk-container');
-</script> 
-<!-- Gitalk end -->
