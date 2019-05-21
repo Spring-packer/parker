@@ -4,7 +4,7 @@ title: Hello, 龍的博客
 
 {{ page.title }}
 
-
+### 过分谦虚，其实是一种傲娇    ---雷总
 {% for post in site.posts %}
 {{ post.date|date_to_string }} <a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a>
 {% endfor %}
