@@ -5,10 +5,24 @@ title: Hello, 龍的博客
 {{ page.title }}
 
 ---
-### 过分谦虚，其实是一种傲娇    --- 雷总
+### 过分谦虚，其实是一种傲娇。    --- 雷总
 ---
-### 错也是一种对    --- 宋总
+### 错也是一种对。    --- 宋总
 ---
+### 乐人之乐，人亦乐其乐。    --- 邱总
+---
+
+```
+gantt
+dateFormat YYYY-MM-DD
+section S1
+T1: 2014-01-01, 9d
+section S2
+T2: 2014-01-11, 9d
+section S3
+T3: 2014-01-02, 9d
+```
+
 
 {% for post in site.posts %}
 {{ post.date|date_to_string }} <a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a>
@@ -17,7 +31,13 @@ title: Hello, 龍的博客
 
 ### Markdown
 
+<html>
+</br>
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</br>
+<p>
+</html>
 
 ```markdown
 
